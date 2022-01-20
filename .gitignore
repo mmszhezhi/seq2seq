@@ -1,0 +1,5 @@
+*.zip
+data
+results
+_sample_data
+*.pth
